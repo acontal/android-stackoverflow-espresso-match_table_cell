@@ -25,7 +25,7 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
 		getActivity();
 	}
 	
-	public void testToBeWritten() {
+	public void testCellBelowFoodGroup() {
 		getActivity();
 		onView(
 			allOf(
